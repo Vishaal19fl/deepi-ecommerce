@@ -659,6 +659,7 @@ banner
 .main-banner .left-content .thumb img {
   width: 100%;
   overflow: hidden;
+  border-radius: 10px;
 }
 
 .main-banner .left-content .inner-content {
@@ -697,6 +698,7 @@ banner
 .main-banner .right-content .right-first-image .thumb img {
   width: 100%;
   overflow: hidden;
+  border-radius: 10px;
 }
 
 .main-banner .right-content .right-first-image .thumb .inner-content {
